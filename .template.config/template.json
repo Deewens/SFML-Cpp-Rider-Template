@@ -1,0 +1,14 @@
+{
+  "author": "Pete Lowe (SETU)",
+  "classifications": ["C++", "SFML", "Game"],
+  "name": "SFML Game",
+  "description": "Starter Code for SFML game",
+  "identity": "SETU.SFML.2.5.1.Cpp",
+  "shortName": "sfml",
+  "tags": {
+    "language": "C++",
+    "type": "project",
+    "platform": "C++"
+  },
+  "sourceName": "SFMLGameProject"
+}
