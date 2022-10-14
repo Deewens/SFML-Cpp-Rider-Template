@@ -1,7 +1,7 @@
 {
   "author": "Pete Lowe (SETU)",
   "classifications": ["C++", "SFML", "Game"],
-  "name": "SFML Game",
+  "name": "SFML Game 2.5.1",
   "description": "Starter Code for SFML game",
   "identity": "SETU.SFML.2.5.1.Cpp",
   "shortName": "sfml",
